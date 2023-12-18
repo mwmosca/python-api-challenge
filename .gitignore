@@ -4,3 +4,6 @@ starter_output_data
 
 # Adding config.py file.
 api_keys.py
+
+# Uhh idk
+__pycache__
