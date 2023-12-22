@@ -11,8 +11,8 @@ An API key for Geoapify is required to run VacationPy.ipynb.
 
 Create a new file named api_keys.py and add the following code:
 
-# OpenWeatherMap API Key
+\# OpenWeatherMap API Key  
 weather_api_key = 'Your OpenWeather API key'
 
-# Geoapify API Key
+\# Geoapify API Key  
 geoapify_key = 'Your Geoapify API key'
